@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/natal/static/css/main.95fa6cb3.css",
+    "main.js": "/natal/static/js/main.b6d62c04.js",
+    "static/js/453.5e3d55e3.chunk.js": "/natal/static/js/453.5e3d55e3.chunk.js",
+    "index.html": "/natal/index.html",
+    "main.95fa6cb3.css.map": "/natal/static/css/main.95fa6cb3.css.map",
+    "main.b6d62c04.js.map": "/natal/static/js/main.b6d62c04.js.map",
+    "453.5e3d55e3.chunk.js.map": "/natal/static/js/453.5e3d55e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95fa6cb3.css",
+    "static/js/main.b6d62c04.js"
+  ]
+}
